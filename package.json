@@ -18,11 +18,9 @@
     "@uniswap/v2-periphery": "^1.1.0-beta.0"
   },
   "scripts": {
-    "install:slither": "pip install -r ./requirements.txt",
     "lint": "solhint './contracts/*.sol'",
     "format": "prettier --write './contracts/*.sol' && prettier --write './test/*.ts'",
     "ci": "npm run format && npm run lint && npm run test",
-    "test:static": "slither ./contracts",
     "test": "REPORT_GAS=true npx hardhat test --network hardhat",
     "build": "tsc"
   }
