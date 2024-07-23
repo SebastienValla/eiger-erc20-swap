@@ -14,7 +14,8 @@
     "solhint": "^3.2.1",
     "solhint-plugin-prettier": "^0.0.5",
     "ts-node": "^10.9.1",
-    "typescript": "^5.0.4"
+    "typescript": "^5.0.4",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0"
   },
   "scripts": {
     "install:slither": "pip install -r ./requirements.txt",
