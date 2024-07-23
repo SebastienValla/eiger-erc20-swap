@@ -1,0 +1,30 @@
+{
+    "Mainnet": {
+      "V2Router02ContractAddress": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D"
+    },
+    "EthereumSepolia": {
+      "V2Router02ContractAddress": "0x425141165d3DE9FEC831896C016617a52363b687"
+    },
+    "Arbitrum": {
+      "V2Router02ContractAddress": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24"
+    },
+    "Avalanche": {
+      "V2Router02ContractAddress": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24"
+    },
+    "BNBChain": {
+      "V2Router02ContractAddress": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24"
+    },
+    "Base": {
+      "V2Router02ContractAddress": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24"
+    },
+    "Optimism": {
+      "V2Router02ContractAddress": "0x4A7b5Da61326A6379179b40d00F57E5bbDC962c2"
+    },
+    "Polygon": {
+      "V2Router02ContractAddress": "0xedf6066a2b290C185783862C7F4776A2C8077AD1"
+    },
+    "Blast": {
+      "V2Router02ContractAddress": "0xBB66Eb1c5e875933D44DAe661dbD80e5D9B03035"
+    }
+  }
+  
